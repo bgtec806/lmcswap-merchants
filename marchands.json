@@ -1,0 +1,25 @@
+Ajout de l'annuaire initial des marchands LMCswap
+{
+  "id": "lmc_001",
+  "nom": "BG CRYPTO TRADING",
+  "description": "Formation en trading des cryptomonnaies",
+  "categorie": "Formation",
+  "sous_categorie": "Trading Cryptomonnaies",
+  "pays": "Cameroun",
+  "ville": "Douala",
+  "adresse": "On line",
+  "coord_gps": {
+    "lat": 43.6954,
+    "lng": 7.2714
+  },
+  "site_web": "#",
+  "telephone": "+237 654 79 64 13",
+  "email_contact": "bgtec@yahoo.com",
+  "accepte_depuis": "2024-06-01",
+  "modes_paiement_lmc": ["qr_code_static", "wallet_direct"],
+  "adresse_wallet_lmc": "0x7f07e12c2a224f7ca2174649b2955ad3de1b8750",
+  "verifie": true,
+  "date_verification": "2024-06-01",
+  "promotions": "-10% sur tout les paiements",
+  "horaires": "Mar-Jeu: 19h-21h00"
+}
